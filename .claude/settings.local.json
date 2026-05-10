@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git checkout:*)",
+      "Bash(git commit:*)",
+      "Bash(git -C /mnt/d/universidad/arqui/microservicioEmail branch)",
+      "Bash(git add:*)",
+      "Bash(git config:*)"
+    ]
+  }
+}
